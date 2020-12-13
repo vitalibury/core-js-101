@@ -22,6 +22,14 @@
  */
 function Rectangle(/* width, height */) {
   throw new Error('Not implemented');
+  // constructor(
+
+  // )
+  // this.width = width;
+  // this.height = height;
+  // const getArea = () => {
+  //   return this.height * this.width;
+  // }
 }
 
 
